@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+body {background-color:	#F0FFF0}
+h1	{color: red
+		text-align:center;}
+p	{color: blue;
+		text-align:center;
+		font-family: Times New Roman;}
+h2	{color: red;
+		text-align:center}
+h3	{color: red;
+		text-align:center;}
+h4	{color:	red;
+		text-align:center;}
+ul	{color: blue;
+		text-align:center;}
+ol	{color: blue;
+		text-align:center;}
+        
+        
+</style>
+
+<h1>My Favorite Store: Nike</h1>
+
+<p>The Nike store is my <b>favorite</b> store because at the Nike store you can get <i>lots</i> of clothes that you could wear everyday, like shirts and pants. They sell <i>really</i> comfortable sweatpants and they also sell really comfortable shoes. </p>
+
+<hr>
+
+<h2>What you can get at Nike:</h2>
+
+<ul>
+  <li>Shoes</li>
+  <li>Sweatpants</li>
+  <li>Hats</li>
+  <li>Long and Short Sleeve Shirts</li>
+  <li>Socks</li>
+</ul>  
+
+<hr>
+
+<h3>Five Popular Items at Nike:</h3>
+
+<ol>
+	<li>Air Force 1 '07</li>
+	<li>Air Huarache</li>
+	<li>Roshe One</li>
+	<li>Sportswear Windrunner</li>
+	<li>Air Presto</li>
+</ol>
+
+<hr>
+
+<a href	="nike.com">Link to Nike.com</a>
+<img src="https://news.nike.com/images/swoosh-default.jpg" alt="Nike">
+
+<hr>
+
+<h4>Map to Sugarloaf Mills Location</h4>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d211906.68810594274!2d-84.36177253786973!3d33.914318556219605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f5bd163c1c3ba9%3A0x82554d1143c0ec65!2sNike+Factory+Store!5e0!3m2!1sen!2sus!4v1521471669144" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+</body>
+</html>
